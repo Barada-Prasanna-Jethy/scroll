@@ -1,14 +1,6 @@
-.red {
-  background-color: red;
-  height: 25vh;
-}
-.blue {
-  background-color: blue;
-  height: 25vh;
-}
 .container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
-  gap: 1px 1px;
+  height: 110vh;
+  text-align: center;
+  font-weight: bold;
+  
 }
